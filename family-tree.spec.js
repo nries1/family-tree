@@ -164,8 +164,8 @@ describe('Family Tree', () => {
 ---- Amy
 ------ Henry
 ------ Vivian
----- Todd`,
-        ),
+---- Todd`
+        )
       ).toEqual(0);
     });
   });
